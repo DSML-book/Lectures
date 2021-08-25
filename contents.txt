@@ -1,108 +1,46 @@
-Aim for 20-30 slides per lecture (shown in brackets)
-Give the slides a name per topic. * indicates current to fix up
+This file gives the order in which the 41 lectures should be given. Each
+lecture takes about 50-60 minutes, with  20-30 slides per lecture
+(exact number shown in brackets). Chapter and session numbers from DSML are given for each lecture.
 
-======================================
-datamanipulation: Chapter 1 (31)
-
+datamanipulation: 1 (31)
 statisticallearning:  2.1-2.3  (33)
-
 tradeoffs:  2.4 (18)
-================================
 estimatingrisk: 2.5 (17)
-
 modelingdata 2.6-2.7(22)
-
 normlinmod 2.8 + C.7 (26)
-
-=================================
-
 bayeslearning 2.9 (20) 
-
 BIC 2.9 (24)
-
 simulrv 3.1 (20)
-
-================================
-
 simMCMC  3.2 (28)
-
 mcest 3.3 a  (23)
-
 varmin 3.3 b  (20)
-
-===============================
-simopt 3.4 a (27)
-
+simopt 3.4 a (26)
 simce  3.4 b (18)
-
 unsuplearn 4.1-4.2 (24)
-
-====================================
-
 emalg 4.3-4.4 (26)
-
 clustering - 4.7 (25)
-
 prcompon 4.8   (24)
-============================================
-
 regress 5.1-5.3a (20)
-
 linmod 5.3b  (23)
-
 inflinmod 5.4 (21)
-
 nonlinpyth 5.5- 5.6 (33) 
-
 genlinmod 5.7  (20)
-
------------------------------------
-Regularization and Kernel Methods
-
 regularization 6.1-6.2 (23)
-
 repkerhilspa1 6.3 (15)
-
 repkerhilspa2 6.4 (18)
-
 representerthm 6.5-6.6 (25)
-
- gpregression 6.7-6.8 (19)
-
--------------------------------------
-Classification
-
+gpregression 6.7-6.8 (19)
 classmetrics 7.1-7.2 (24)
-
 classbayes 7.3 (12) 
-
 classLDQA 7.4 (20)
-
 classlogreg 7.5-7.6 (12) 
-
 classsvm 7.7-7.8 (27)
-
-
-------------------------
-Decision Trees and Ensemble Methods
-
 dtclass 8.1-8.2a  (27)
-
 dtconstr 8.2b  (11)
-
 dtextra 8.3-8.4 (23)
-
 dtensemble 8.5-8.6 (23)
-
 dtboosting 8.7 (22)
----------------------
-
-Deep learning
-
 neuralnet 9.1-9.2 (21)
-
 neurback 9.3  (17)
-
 neurtrain 9.4 (20)
-
 neurpyth 9.5 (22)
