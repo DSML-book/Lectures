@@ -1,2 +1,2 @@
 # Lectures
- Lecture slides for DSML book
+Lecture slides for first edition of DSML book
